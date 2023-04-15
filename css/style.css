@@ -14,7 +14,7 @@ body{
 }
 .menu li a{
     text-decoration: none;
-    color: black;
+    color: rgb(111, 0, 255);
     font-weight: bold;
 }
 header, section, footer{
@@ -25,8 +25,8 @@ header, section, footer{
     max-width: 600px;
 }
 .button{
-    background-color: blue;
-    color: white;
+    background-color: rgb(243, 243, 250);
+    color: rgb(10, 10, 10);
     padding: 1em;
     margin: 1em 0;
     display: inline-block;
